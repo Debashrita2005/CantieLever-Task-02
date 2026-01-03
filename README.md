@@ -23,5 +23,5 @@ Two main Machine Learning Algorihtm are used:
 1. Logistic Regresion
 2. Random forest 
 
-### Mail : an91an99jha@gmail.com@gmail.com 
-##GitHub: https://github.com/2006anand/ANAND-KUMAR-JHA
+### Mail : mandaldebashrita@gmail.com
+
